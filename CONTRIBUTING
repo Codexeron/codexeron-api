@@ -1,0 +1,27 @@
+# Contributing to Codexeron
+
+Thank you for your interest in contributing to Codexeron.
+
+## How to Contribute
+
+1. Fork this repository.
+2. Create a new branch for your changes.
+3. Make your changes and test them.
+4. Commit your changes with a clear message.
+5. Submit a Pull Request.
+
+## Reporting Bugs
+
+If you find a bug, please create a GitHub Issue with detailed information.
+
+## Feature Requests
+
+Have an idea? Open a GitHub Issue and describe your proposal.
+
+## Code Standards
+
+- Write clean and readable code.
+- Follow project conventions.
+- Keep documentation updated.
+
+Thank you for helping improve Codexeron.
