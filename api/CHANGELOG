@@ -1,0 +1,37 @@
+# Changelog
+
+All notable changes to the Codexeron API repository are documented in this file.
+
+---
+
+# v1.0.0
+
+Release Date: 2026
+
+## Added
+
+- Initial API repository structure created.
+- Added API overview documentation.
+- Added security guidelines.
+- Added developer resource information.
+
+## Notes
+
+This release establishes the foundation for future Codexeron API resources.
+
+Public API access and detailed integrations will be introduced in future releases.
+
+---
+
+# Future Releases
+
+Future versions may include:
+
+- API documentation updates.
+- Authentication resources.
+- Integration examples.
+- Developer tools.
+
+---
+
+© 2026 Codexeron. All rights reserved.
